@@ -1,3 +1,14 @@
+# Final Exam - Question#3 (7 pts)
+# - Implement 2 recursive function, findOccurrencesR(), and str_to_num(), in FE_3.py
+# -++ findOccurrencesR() - (3pts)
+# -++ str_to_num() - (4pts)
+# - In FE_3.py, it has "TODO" comment, which require you to complete it.
+# - Detailed description of findOccurrencesR() is in FE_3.py
+# - Please submit ONLY FE_3.py
+# - Hint: find() method from string.  
+# - Expected output is also defined as comment in FE_3.py
+
+
 ##
 # findOccurrencesR
 # - Recursive function to take into 2 parameters: szSrc and szToken

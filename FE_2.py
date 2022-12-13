@@ -1,5 +1,12 @@
 import math
 
+# Final Exam - Question#2 (7 pts)
+# - Implement 3 classes, Rectangle, Square, and Ellipse in FE_2.py
+# - In FE_2.py, it has "TODO" comment, which require you to complete it
+# - Detailed description of each class is in FE_2.py
+# - Expected output is also defined as comment in FE_2.py
+# - Please submit ONLY FE_2.py
+
 ##
 ## Shape Class
 ## - Please do NOT change this class

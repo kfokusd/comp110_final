@@ -1,6 +1,14 @@
 import math
 import matplotlib.pyplot as pp
 
+# Final Exam - Question#1 (7 pts)
+# - Implement 1 function, process_expenses() in FE_1.py
+# - In FE_1.py, it has "TODO" comment, which require you to complete it
+# - Detailed description of process_expenses(), is defined in FE_1.py
+# - Please submit ONLY FE_1.py
+# - Expected output (text) is also defined as comment in FE_1.py
+# - Expected output (graph) is as follows in FE_1_output.jpg
+
 # Function: process_expenses()
 # - One parameter, filename (csv format)
 # - This function returns a 2-items tuple: 1st item is a dictionary, and 2nd item is a dictionary of dictionary

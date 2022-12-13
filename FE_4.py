@@ -1,5 +1,12 @@
 import image
 
+# Final Exam - Question#4 (7 pts)
+# - Implement 1 function, superimpose(), in FE_4.py
+# - In FE_4.py, it has "TODO" comment, which require you to pay attention to
+# - Please submit ONLY FE_4.py for file submission.  Submitting additional files will have points deducted
+# - Expected Output: (FE_4_output.jpg)
+
+
 ##
 ## Function: superimpose()
 ## - 2 Parameters: 
